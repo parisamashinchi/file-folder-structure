@@ -1,0 +1,13 @@
+.container , .file, .input-container {
+    margin-left: 50px;
+}
+.folder {
+    margin-left: 50px;
+    margin-top: 6px;
+    background-color: lightgray;
+    display: flex;
+    justify-content: space-between;
+    padding: 2px;
+    width: 500px;
+    cursor: pointer;
+}
